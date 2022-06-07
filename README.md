@@ -1,4 +1,4 @@
-# data_hull
+# Data_hull
 Creates a convex hull arround a training set and defines which observations from another set are within the hull
 
 A convex hull can be used to draw boundaries around the training set. This can be useful to verify regions of feature space in which a dataset of interest  is "covered" by the training set.
